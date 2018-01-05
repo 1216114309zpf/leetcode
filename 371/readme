@@ -1,0 +1,3 @@
+use AND to signify carry bit.
+use XOR to signify no-carry 1.
+use left shift to simulate add algorighm.
