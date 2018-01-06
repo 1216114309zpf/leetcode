@@ -1,0 +1,3 @@
+first find a local minimum(the left-most one or the right-most one).
+then try to move the left pointer and right pointer to find the global minimum.
+the complexity is guranteed to be O(n).
